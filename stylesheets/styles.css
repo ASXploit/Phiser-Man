@@ -1,0 +1,23 @@
+.bar-color {
+	background-color: rgb(53, 142, 255);
+}
+.action-bar {
+	width: 100%;
+	height: 50px;
+	background-color: #f9f8f8;
+}
+.slider-color {
+	background-color: rgb(64, 64, 64);
+}
+.table-container {
+	width: 100%;
+	background-color: #fefefe;
+}
+.foot-style {
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+}
+.table-style {
+	text-align: center;
+}
